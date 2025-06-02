@@ -75,7 +75,9 @@ Don't worry -- if you have done everything correctly, it will be really, really 
 
 ## Skeleton Code:
 The skeleton code is in the file proj07.cpp.
+
 Left-click to see it.
+
 Right-click to download it.
 
 ## Grading:
